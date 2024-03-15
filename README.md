@@ -1,0 +1,1 @@
+ This project is a simple example of how to get weather data from Accuweather API and send it to Kafka on Python, with this project you can understand Kafka's Producer Methodology.
