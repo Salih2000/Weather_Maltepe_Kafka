@@ -59,9 +59,6 @@ def send_to_kafka(topic, data):
     producer.produce(topic, data)
     producer.flush()
 
-
-
-
 interval_seconds = 1800
 
 while True:
